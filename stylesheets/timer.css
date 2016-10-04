@@ -7,6 +7,7 @@ body{
 
 h1{
    font-family: quicksand;
+   text-align: center;
    color: #396;
    font-weight: 100;
    font-size: 40px;
@@ -16,7 +17,6 @@ h1{
    top: 25%;
    left: 50%;
    margin-top: -50px;
-   margin-left: -200px;
 }
 
 #clockdiv{
